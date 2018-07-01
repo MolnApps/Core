@@ -1,0 +1,1 @@
+Vue.component('form-actions', require('./components/FormActions.vue'));
